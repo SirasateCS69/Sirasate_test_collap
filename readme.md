@@ -4,8 +4,8 @@ Our Favorite Things  is computer.
 
 ## Favorite Food
 
-Boom Favorite food is pad kra pow.
-Tang Favorite food is pad kra pow.
+Boom Favorite food is pad kra pao.
+Tang Favorite food is pad kra pao.
 
 ### Favorite Activies
 
